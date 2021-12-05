@@ -19,4 +19,4 @@ You can join my [Discord server](https://discord.gg/RwWpAqBWRA) or [open a new i
 - [ ] Use database
 
 ### License
-- [MIT](https://github.com/jadnast/discord-music-bot/LICENSE)
+- [MIT](https://github.com/jadnast/discord-music-bot/blob/master/LICENSE)
